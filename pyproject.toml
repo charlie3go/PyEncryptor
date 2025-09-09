@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pyencryptor"
+name = "pyencryptor3"
 version = "1.0.0"
 authors = [
   { name="charlie3go", email="aslongrushan@gmail.com" },

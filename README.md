@@ -25,7 +25,7 @@
 ### 方式一：通过 pip 安装（推荐）
 
 ```bash
-pip install pyencryptor
+pip install pyencryptor3
 ```
 
 ### 方式二：从源码安装
